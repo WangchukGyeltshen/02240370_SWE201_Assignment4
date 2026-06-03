@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#eef2ff" />
+  <rect x="120" y="220" width="840" height="1480" rx="48" fill="#ffffff" stroke="#e2e8f0" stroke-width="8" />
+  <text x="540" y="420" font-family="Arial, sans-serif" font-size="48" font-weight="700" text-anchor="middle" fill="#0f172a">Permissions Screen</text>
+  <text x="540" y="520" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" fill="#475569">Replace with real screenshot</text>
+  <rect x="210" y="640" width="660" height="180" rx="24" fill="#0f172a" />
+  <text x="540" y="750" font-family="Arial, sans-serif" font-size="32" text-anchor="middle" fill="#f8fafc">Enable Notifications</text>
+</svg>

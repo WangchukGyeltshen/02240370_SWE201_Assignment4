@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#f8fafc" />
+  <rect x="120" y="220" width="840" height="1480" rx="48" fill="#ffffff" stroke="#e2e8f0" stroke-width="8" />
+  <text x="540" y="420" font-family="Arial, sans-serif" font-size="48" font-weight="700" text-anchor="middle" fill="#0f172a">Order List</text>
+  <text x="540" y="520" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" fill="#475569">Replace with real screenshot</text>
+  <rect x="200" y="660" width="680" height="220" rx="32" fill="#e2e8f0" />
+  <rect x="200" y="940" width="680" height="220" rx="32" fill="#e2e8f0" />
+  <rect x="200" y="1220" width="680" height="220" rx="32" fill="#e2e8f0" />
+</svg>

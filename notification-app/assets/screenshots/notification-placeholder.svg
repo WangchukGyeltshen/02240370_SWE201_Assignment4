@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#e2e8f0" />
+  <rect x="120" y="240" width="840" height="520" rx="40" fill="#0f172a" />
+  <text x="540" y="420" font-family="Arial, sans-serif" font-size="44" font-weight="700" text-anchor="middle" fill="#f8fafc">Notification</text>
+  <text x="540" y="520" font-family="Arial, sans-serif" font-size="28" text-anchor="middle" fill="#cbd5f5">Replace with real screenshot</text>
+</svg>
